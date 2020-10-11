@@ -1,4 +1,4 @@
-# hw6
+# Weather api homework
 
 https://sck916.github.io/hw6/
 
